@@ -1,0 +1,3 @@
+DOG = "THEY ARE EATING"
+print(DOG)
+

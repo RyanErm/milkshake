@@ -1,0 +1,3 @@
+TIME = "IS AN ILLUSION"
+print(TIME)
+
